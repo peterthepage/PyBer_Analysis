@@ -5,3 +5,4 @@ Using number of fares, number of drivers, and average fares occurring in each ci
 the city types to show management where investment should occur.
 # Results
 ![Trying]('https://github.com/peterthepage/PyBer_Analysis/blob/main/Analysis/Pyber_Chart.PNG')
+![Tried]('https://github.com/peterthepage/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png')
